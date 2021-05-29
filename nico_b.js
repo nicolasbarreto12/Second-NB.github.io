@@ -1,3 +1,0 @@
-function hizoCLick(){
-    alert("holaaaa")
-}
